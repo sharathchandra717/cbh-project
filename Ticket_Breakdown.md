@@ -63,7 +63,7 @@ When I open it
 Then I could able to add/change Id.
 
 
-Story points: 2             Time estimate: 1.5hrs
+Story points: 1             Time estimate: 1.5hrs
 ```
 
 ```
@@ -82,3 +82,5 @@ Then I could able to add/change Id in database.
 
 Story points: 2             Time estimate: 2hrs
 ```
+
+All the time estimates includes test cases time as well. Followed Scrum points system for story points.
